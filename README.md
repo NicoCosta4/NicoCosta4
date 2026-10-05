@@ -22,7 +22,7 @@ I'm rebuilding my analysis workflows as clean, reproducible repositories that ru
 
 | Repository | What it does | Status |
 |---|---|---|
-| `methylation-arrays` | QC, normalization and differential methylation for EPIC/450K arrays | Planned |
+| [`methylation-arrays`](https://github.com/NicoCosta4/methylation-arrays) | QC, normalization and differential methylation for EPIC arrays, packaged in Docker | Available |
 | `bisulfite-seq-pipeline` | RRBS and targeted bisulfite sequencing, from FASTQ to methylation calls | Planned |
 | `wes-variant-calling` | Whole-exome sequencing, from FASTQ to annotated variants | Planned |
 | `cfdna-fragmentomics` | Fragment size, end motifs and genome-wide cfDNA profiles | Planned |
